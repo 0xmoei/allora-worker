@@ -211,4 +211,4 @@ docker compose logs -f updater
 # updater-basic-eth-pred  | Response content is '0'
 ```
 
-# You are going to receive points in
+# You are going to receive points in the [dashboard](https://app.allora.network/points/leaderboard) in the next few hours
