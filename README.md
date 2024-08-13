@@ -104,8 +104,9 @@ allorad keys add testkey
 
 ![Screenshot_76](https://github.com/0xmoei/allora-testnet/assets/90371338/ff27b97d-d04f-42c4-aa1b-3fb666874098)
 
+#
 
-
+## Install & Run Worker
 
 ### Optional: Only if you ran a node before
 ```console
@@ -116,7 +117,8 @@ docker container prune
 cd $HOME && rm -rf basic-coin-prediction-node
 ```
 
-## Install & Run Worker
+#
+
 ### 1- Clone worker
 ```console
 cd $HOME
