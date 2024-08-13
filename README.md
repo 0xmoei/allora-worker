@@ -261,7 +261,7 @@ import json
  
 def process(argument):
     headers = {'Content-Type': 'application/json'}
-    url = f"http://inference:8000/inference/{argument}"
+    url = "http://inference:8000/inference/{argument}"
     response = requests.get(url, headers=headers)
     return response.text
  
