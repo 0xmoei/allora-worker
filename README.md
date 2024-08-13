@@ -108,6 +108,13 @@ allorad keys add testkey
 ## Install & Run Worker
 
 ### 1- Clone worker
++ Delete Old files if you participated before
+```console
+cd $HOME
+rm -rf basic-coin-prediction-node
+```
+
+Clone new Files
 ```console
 cd $HOME
 git clone https://github.com/allora-network/basic-coin-prediction-node
