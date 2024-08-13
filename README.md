@@ -114,7 +114,7 @@ cd $HOME
 rm -rf basic-coin-prediction-node
 ```
 
-Clone new Files
++ Clone new Files
 ```console
 cd $HOME
 git clone https://github.com/allora-network/basic-coin-prediction-node
