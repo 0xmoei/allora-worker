@@ -109,6 +109,7 @@ allorad keys add testkey
 ## Install & Run Worker
 
 ### Optional: Only if you ran a node before
+ِDelete old files
 ```console
 cd $HOME && cd basic-coin-prediction-node
 docker compose down -v
